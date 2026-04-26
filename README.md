@@ -2,6 +2,7 @@
 
 Autor: Mohammad Ghanadi, Viktor Kulikovskyi
 
+
 🗂️ Overview
 
 This project simulates a basic restaurant system where users can:
@@ -11,6 +12,8 @@ This project simulates a basic restaurant system where users can:
 
 The application is implemented in Python and runs in the terminal.
 
+
+
 🔧 Features
 	•	Table-based order management
 	•	Add and remove products from orders
@@ -19,13 +22,17 @@ The application is implemented in Python and runs in the terminal.
 	•	Bill export to a file
 	•	Input validation and error handling
 
+
+
 🛠 Tech Stack
 	•	Python 3.x
 	•	CSV file handling
 
 
-🥨 Main Menu Options
 
+
+
+🥨 Main Menu Options
 Option 1 - Enter Order
 
 Select a table number
